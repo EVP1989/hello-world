@@ -1,2 +1,2 @@
 # hello-world
-Learning to think..
+Learning to think...
